@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class Solution03 {
     public static void main(String[] args){
         /*
-        Ask for a quote
+        Print "What is the quote?"
             Input = quote
-        Ask for the Author
+        Print "Who said it?"
             Input = author
-        Display both author and their quote
+        Display author saying their quote
          */
         Scanner input = new Scanner(System.in);
 
